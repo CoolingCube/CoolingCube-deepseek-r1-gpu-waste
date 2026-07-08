@@ -1,0 +1,1 @@
+# CoolingCube-deepseek-r1-gpu-waste
